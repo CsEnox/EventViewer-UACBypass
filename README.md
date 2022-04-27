@@ -39,4 +39,3 @@ iv) In the end, `eventvwr` is executed which then executes our payload.
 
 ### Reference
 - https://twitter.com/orange_8361/status/1518970259868626944
-- https://twitter.com/orange_8361
