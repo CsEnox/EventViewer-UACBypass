@@ -1,6 +1,6 @@
 # EventViewer-UACBypass
 
-- RCE through Unsafe .Net Deserialization in Windows Event Viewer which helps bypass UAC.
+- RCE through Unsafe .Net Deserialization in Windows Event Viewer which leads to UAC bypass.
 - Full credits to [Orange Tsai](https://twitter.com/orange_8361)
 ---
 ### Usage
